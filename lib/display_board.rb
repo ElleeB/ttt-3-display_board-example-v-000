@@ -1,5 +1,4 @@
 def display_board
-  row = [" ", | " ", | " "]
+  row = ["  ", " | ", "  ", " | ", "  "]
   print row
 end
-  
