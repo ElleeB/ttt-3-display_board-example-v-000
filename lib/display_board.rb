@@ -1,7 +1,8 @@
 def display_board
   cell = "   "
   row = "#{cell}|#{cell}|#{cell}
------------"
-  print row
-  print row
+-----------
+#{cell}|#{cell}|#{cell}
+-----------
+#{cell}|#{cell}|#{cell}"
 end
