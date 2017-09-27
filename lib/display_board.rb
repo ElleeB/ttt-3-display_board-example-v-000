@@ -1,4 +1,3 @@
 def display_board
-  cell = ""      ""
-  print cell
+  puts "A Tic Tac Toe Board"
 end
