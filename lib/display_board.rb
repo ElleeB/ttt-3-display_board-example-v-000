@@ -4,5 +4,4 @@ def display_board
 -----------"
   print row
   print row
-  3.times print cell
 end
