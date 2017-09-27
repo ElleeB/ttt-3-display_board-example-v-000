@@ -1,4 +1,4 @@
 def display_board
-  cell = "   "
+  cell = ""      ""
   print cell
 end
