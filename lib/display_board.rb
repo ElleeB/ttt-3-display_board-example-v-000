@@ -1,5 +1,5 @@
 def display_board
   cell = "   "
-  puts cell
-  puts " | "
+  print cell
+  print " | "
 end
